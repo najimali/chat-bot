@@ -1,0 +1,3 @@
+interface someinterface{
+  id : number
+}
